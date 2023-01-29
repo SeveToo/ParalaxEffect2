@@ -37,7 +37,7 @@
 <!-- Make some description to me -->
 
 It is a simple project to learn how to use canvas and how to make a paralax effect.
-I made it with tutorial from <a href="https://www.youtube.com/watch?v=4wz1zrbTAo0&t=2s" target="_blank">Web Dev Simplified</a>
+I made it with tutorial from <a href="https://www.youtube.com/watch?v=4wz1zrbTAo0&t=2s" target="_blank">YouTube/TK</a>
 
 <!-- ## :sparkles: Features
 :heavy_check_mark: You can set interval between rounds \
